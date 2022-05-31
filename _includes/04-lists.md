@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Music.
+- cyber security 
+- cloud computing
+- video games
